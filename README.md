@@ -1,20 +1,20 @@
 # GWD 570 Comprehensive Assessment
  Examples of Comprehensive Assessment components for the new 570 program
 
-- [advertising-material-formatted-for-print](components/advertising-material-formatted-for-print.md)
+- [Aadvertising Material Formatted for Print](components/advertising-material-formatted-for-print.md)
 - [Animated web advertisement](components/animated-web-ad.md)
 - [Business starter kit, including contracts, copyright, releases and pricing](components/business-starter-kit.md)
 - [Complete Stationery Set](components/complete-stationery-set.md)
 - [Complex form design with input validation](components/complex-web-form-design-with-validation.md)
 - [Conceptual sketches for advertising and interfaces](components/conceptual-sketches.md)
-- [Container (3D package) design](components/container-design.md)
+- [* Container (3D package) design](components/container-design.md)
 - [Corporate video intro and outro animation set](components/corporate-video-animation.md)
 - [Creative artwork presented as final artwork and as PDF with appropriate prepress symbols: die line, crop marks, registration marks, etc.](components/creative-artwork-pdf-prepress.md)
-- [Creative Photography](components/creative-photography.md)
+- [* Creative Photography](components/creative-photography.md)
 - [Die cut design](components/die-cut-design.md)
 - [Full corporate branding identity set for both print & web (mockups)](components/full-corporate-identity-set-mockups.md)
 - [Full corporate branding identity set for both print & web (mockups) #2](components/full-corporate-identity-set-mockups-2.md)
-- [Logo in black, grayscale, 2 color and 4CP presented in range of sizes from favicon to large](components/logo-design.md)
+- [* Logo in black, grayscale, 2 color and 4CP presented in range of sizes from favicon to large](components/logo-design.md)
 - [Long form print document with electronic version (creative)](components/long-form-print-document-creative.md)
 - [Long form print document with electronic version (corporate)](components/long-form-print-with-electronic-version-corporate.md)
 - [Micro-interactions](components/micro-interactions.md)
@@ -34,3 +34,5 @@
 - [Web portfolio site optimized for promotion](components/web-portfolio-optimized-for-promotion.md)
 - [Web portfolio & Print portfolio](components/web-print-portfolio.md)
 
+
+Items preceded by an asterisk have sample images added to the page.
