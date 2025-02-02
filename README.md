@@ -4,7 +4,7 @@
 - [advertising-material-formatted-for-print](components/advertising-material-formatted-for-print.md)
 - [Animated web advertisement](components/animated-web-ad.md)
 - [Business starter kit, including contracts, copyright, releases and pricing](components/business-starter-kit.md)
-- [Complete Stationary Set](components/complete-stationary-set.md)
+- [Complete Stationery Set](components/complete-stationery-set.md)
 - [Complex form design with input validation](components/complex-web-form-design-with-validation.md)
 - [Conceptual sketches for advertising and interfaces](components/conceptual-sketches.md)
 - [Container (3D package) design](components/container-design.md)
