@@ -1,7 +1,7 @@
 # GWD 570 Comprehensive Assessment
  Examples of Comprehensive Assessment components for the new 570 program
 
-- [Aadvertising Material Formatted for Print](components/advertising-material-formatted-for-print.md)
+- [Advertising Material Formatted for Print](components/advertising-material-formatted-for-print.md)
 - [Animated web advertisement](components/animated-web-ad.md)
 - [Business starter kit, including contracts, copyright, releases and pricing](components/business-starter-kit.md)
 - [Complete Stationery Set](components/complete-stationery-set.md)
@@ -35,4 +35,4 @@
 - [Web portfolio & Print portfolio](components/web-print-portfolio.md)
 
 
-Items preceded by an asterisk have sample images added to the page.
+\* Items preceded by an asterisk have sample images added to the page.
