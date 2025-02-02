@@ -13,7 +13,7 @@
 - [Creative Photography](components/creative-photography.md)
 - [Die cut design](components/die-cut-design.md)
 - [Full corporate branding identity set for both print & web (mockups)](components/full-corporate-identity-set-mockups.md)
-- - [Full corporate branding identity set for both print & web (mockups) #2](components/full-corporate-identity-set-mockups-2.md)
+- [Full corporate branding identity set for both print & web (mockups) #2](components/full-corporate-identity-set-mockups-2.md)
 - [Logo in black, grayscale, 2 color and 4CP presented in range of sizes from favicon to large](components/logo-design.md)
 - [Long form print document with electronic version (creative)](components/long-form-print-document-creative.md)
 - [Long form print document with electronic version (corporate)](components/long-form-print-with-electronic-version-corporate.md)
